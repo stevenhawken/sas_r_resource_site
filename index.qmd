@@ -1,0 +1,25 @@
+---
+title: "Welcome"
+---
+
+## What this site is
+
+This mini site hosts **freely available learning resources** for **R** and **SAS** programming, tailored to a graduate course in **health research using large administrative databases**.
+
+### How students should use it
+
+1. Start with the **Core pathway** in your language (R or SAS).
+2. Use the **Health/epi-focused** resources once you can import, clean, and summarize data.
+3. Keep the **Reference** links bookmarked for assignments and projects.
+
+:::callout-note
+### Recommended minimum setup (for the course)
+
+- **R users:** R + RStudio (Posit)
+- **SAS users:** SAS OnDemand for Academics (if used in the course) or institutional SAS
+- **Everyone:** comfort with folders, file paths, and reading documentation
+:::
+
+## Where to go next
+
+- See: [R & SAS Resources](resources.qmd)

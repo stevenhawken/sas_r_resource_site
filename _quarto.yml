@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Health Administrative Database Research"
+  site-url: ""
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resources.qmd
+        text: R & SAS Resources
+    right:
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026"
+    right:
+      - text: "Built with Quarto"
+        href: https://quarto.org
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    link-external-newwindow: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto
