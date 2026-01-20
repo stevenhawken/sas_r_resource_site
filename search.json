@@ -25,7 +25,7 @@
     "href": "resources.html#sql-and-relational-thinking-essential-for-both-r-and-sas",
     "title": "Programming Resources (R & SAS)",
     "section": "3 SQL and relational thinking (essential for both R and SAS)",
-    "text": "3 SQL and relational thinking (essential for both R and SAS)\n\n3.1 Mode SQL Tutorial (beginner-friendly)\n\nhttps://mode.com/sql-tutorial/\n\nBest for: joins, grouping, filtering, window functions fundamentals\n\nWhy it matters: most health administrative data live in relational schemas (multiple tables)\n\n\n\n\n\n\n\nNoteMinimum SQL you should learn early\n\n\n\n\nSELECT, WHERE, GROUP BY, ORDER BY\n\nINNER JOIN vs LEFT JOIN\n\nCounting rows before/after a join (to avoid accidental duplication)"
+    "text": "3 SQL and relational thinking (essential for both R and SAS)\n\n3.1 Mode SQL Tutorial (beginner-friendly)\n\nhttps://mode.com/sql-tutorial/\nBest for: joins, grouping, filtering, window functions fundamentals\n\nWhy it matters: most health administrative data live in relational schemas (multiple tables)\n\n\n\n\n\n\n\nNoteMinimum SQL you should learn early\n\n\n\n\nSELECT, WHERE, GROUP BY, ORDER BY\n\nINNER JOIN vs LEFT JOIN\n\nCounting rows before/after a join (to avoid accidental duplication)"
   },
   {
     "objectID": "resources.html#bookmark-list-fast-access",
