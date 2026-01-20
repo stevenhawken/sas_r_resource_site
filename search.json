@@ -21,18 +21,11 @@
     "text": "2 SAS programming resources\n\n2.1 Core pathway (start here)\n\n2.1.1 SAS Documentation (official)\n\nhttps://documentation.sas.com\n\nBest for: authoritative reference on DATA step and PROC basics\n\nUse for: DATA step, PROC SORT, PROC FREQ, PROC MEANS, PROC SQL\n\n\n\n2.1.2 SAS for Students (Academic / Skill Builder landing)\n\nhttps://www.sas.com/en_ca/learn/academic-programs/students.html\n\nBest for: student learning pathways and getting access via academic programs (availability varies)\n\n\n\n\n\n2.2 SAS for applied statistics (health-relevant examples)\n\n2.2.1 UCLA IDRE SAS resources (excellent applied tutorials)\n\nhttps://stats.oarc.ucla.edu/sas/\n\nBest for: clear explanations + worked examples\n\nGreat for: regression, categorical data, data management patterns\n\n\n\n\n\n2.3 SAS + large datasets (real-world patterns)\n\n2.3.1 SAS Global Forum proceedings (conference papers)\n\nhttps://www.sas.com/en_us/events/sas-global-forum.html\n\nBest for: practical approaches to large tables, optimization, reporting\n\n\n\n2.3.2 Lex Jansen (searchable SAS conference paper archive)\n\nhttps://www.lexjansen.com\n\nBest for: finding “how do I do X in SAS?” by use case (including health/claims-style problems)"
   },
   {
-    "objectID": "resources.html#sql-and-relational-thinking-essential-for-both-r-and-sas",
-    "href": "resources.html#sql-and-relational-thinking-essential-for-both-r-and-sas",
-    "title": "Programming Resources (R & SAS)",
-    "section": "3 SQL and relational thinking (essential for both R and SAS)",
-    "text": "3 SQL and relational thinking (essential for both R and SAS)\n\n3.1 Mode SQL Tutorial (beginner-friendly)\n\nhttps://mode.com/sql-tutorial/\nBest for: joins, grouping, filtering, window functions fundamentals\n\nWhy it matters: most health administrative data live in relational schemas (multiple tables)\n\n\n\n\n\n\n\nNoteMinimum SQL you should learn early\n\n\n\n\nSELECT, WHERE, GROUP BY, ORDER BY\n\nINNER JOIN vs LEFT JOIN\n\nCounting rows before/after a join (to avoid accidental duplication)"
-  },
-  {
     "objectID": "resources.html#bookmark-list-fast-access",
     "href": "resources.html#bookmark-list-fast-access",
     "title": "Programming Resources (R & SAS)",
-    "section": "4 Bookmark list (fast access)",
-    "text": "4 Bookmark list (fast access)\n\n4.1 R\n\nR4DS: https://r4ds.hadley.nz\n\nHOPR: https://rstudio-education.github.io/hopr/\n\nEpi R Handbook: https://epirhandbook.com\n\nEfficient R: https://csgillespie.github.io/efficientR/\n\nR Markdown: https://bookdown.org/yihui/rmarkdown/\n\nQuarto: https://quarto.org/docs/guide/\n\n\n\n4.2 SAS\n\nSAS Docs: https://documentation.sas.com\n\nSAS students: https://www.sas.com/en_ca/learn/academic-programs/students.html\n\nUCLA IDRE SAS: https://stats.oarc.ucla.edu/sas/\n\nSAS Global Forum: https://www.sas.com/en_us/events/sas-global-forum.html\n\nLex Jansen: https://www.lexjansen.com\n\n\n\n4.3 SQL\n\nMode SQL tutorial: https://mode.com/sql-tutorial/"
+    "section": "3 Bookmark list (fast access)",
+    "text": "3 Bookmark list (fast access)\n\n3.1 R\n\nR4DS: https://r4ds.hadley.nz\n\nHOPR: https://rstudio-education.github.io/hopr/\n\nEpi R Handbook: https://epirhandbook.com\n\nEfficient R: https://csgillespie.github.io/efficientR/\n\nR Markdown: https://bookdown.org/yihui/rmarkdown/\n\nQuarto: https://quarto.org/docs/guide/\n\n\n\n3.2 SAS\n\nSAS Docs: https://documentation.sas.com\n\nSAS students: https://www.sas.com/en_ca/learn/academic-programs/students.html\n\nUCLA IDRE SAS: https://stats.oarc.ucla.edu/sas/\n\nSAS Global Forum: https://www.sas.com/en_us/events/sas-global-forum.html\n\nLex Jansen: https://www.lexjansen.com"
   },
   {
     "objectID": "index.html",
